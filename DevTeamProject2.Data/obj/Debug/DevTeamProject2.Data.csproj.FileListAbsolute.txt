@@ -1,0 +1,6 @@
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Data\bin\Debug\DevTeamProject2.Data.dll
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Data\bin\Debug\DevTeamProject2.Data.pdb
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Data\obj\Debug\DevTeamProject2.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Data\obj\Debug\DevTeamProject2.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Data\obj\Debug\DevTeamProject2.Data.dll
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Data\obj\Debug\DevTeamProject2.Data.pdb

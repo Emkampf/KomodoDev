@@ -1,0 +1,9 @@
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\bin\Debug\DevTeamProject2.Repo.dll
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\bin\Debug\DevTeamProject2.Repo.pdb
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\bin\Debug\DevTeamProject2.Data.dll
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\bin\Debug\DevTeamProject2.Data.pdb
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\obj\Debug\DevTeamProject2.Repo.csproj.AssemblyReference.cache
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\obj\Debug\DevTeamProject2.Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\obj\Debug\DevTeamProject2.Repo.csproj.CopyComplete
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\obj\Debug\DevTeamProject2.Repo.dll
+C:\ElevenFiftyClassWork\DevTeamProject2\DevTeamProject2.Repo\obj\Debug\DevTeamProject2.Repo.pdb
